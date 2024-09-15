@@ -1,4 +1,4 @@
-# Predicting-Olympic-Medals-Using-Linear-Regression_ML
+# Predicting Olympic Medals with Machine Learning: A Data Science Journey
 
 # Introduction
 The Olympics, held every four years, bring nations together in a spectacular showcase of athletic prowess. But what if we could predict how many medals a country will win in future games? In this project, I aimed to tackle this question by building several machine learning models, starting with Linear Regression, to predict the number of medals a country might win, based on historical Olympic data.
